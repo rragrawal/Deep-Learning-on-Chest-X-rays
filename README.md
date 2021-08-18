@@ -3,6 +3,6 @@ We describe how the CheXNet and Grad-CAM can be utilized for thoracic disorder p
 
 If the Jupyter notebook doesn't render on GitHub, please find it here:
 
-Classification and localization: https://nbviewer.jupyter.org/github/rragrawal/Deep-Learning-on-Chest-X-rays/blob/main/CheXNet_GradCAM.ipynb
+Classification and localization of thoracic disorders: https://nbviewer.jupyter.org/github/rragrawal/Deep-Learning-on-Chest-X-rays/blob/main/classifyLocalizeAttention.ipynb
 
-Report generation: https://nbviewer.jupyter.org/github/rragrawal/Deep-Learning-on-Chest-X-rays/blob/main/medicalImageCaptioning.ipynb
+Medical report generation from Chest X-rays: https://nbviewer.jupyter.org/github/rragrawal/Deep-Learning-on-Chest-X-rays/blob/main/medicalImageCaptioning.ipynb
